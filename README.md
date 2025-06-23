@@ -50,4 +50,4 @@ AD domain environments, GPOs, PowerShell automation, WSUS, pfSense, Zabbix, Wiki
 
 ---
 
-🚀 *Always learning. Always building. Open to internships, junior roles, or freelance opportunities.*
+🚀 *Always learning. Always building. Open to junior roles, or freelance opportunities.*
